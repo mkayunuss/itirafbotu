@@ -4,15 +4,15 @@
 <p align="center">
     Telegramda asanlıqla öz qrupunuz üçün etiraf botu yaradın
     <br>
-        <a href="https://t.me/EtirafClubBot">EtirafClubBot</a> |
-        <a href="https://t.me/RoBotlarimTg">Dəstək Kanalı</a> |
-        <a href="https://t.me/RoBotlarimSup">Dəstək Qrupu</a>
+        <a href="https://t.me/y10itirafbot">EtirafClubBot</a> |
+        <a href="https://t.me/y10itiraf">Dəstək Kanalı</a> |
+        <a href="https://t.me/y10itiraf">Dəstək Qrupu</a>
     <br>
 </p>
 
 ----
 ### ♿ Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yunusmka/itirafbotu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mkayunuss/itirafbotu)
 
 
 ### ⚠️ Qeyd
